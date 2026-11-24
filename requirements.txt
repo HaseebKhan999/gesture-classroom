@@ -1,0 +1,10 @@
+-r requirements/core.txt
+-r requirements/perception.txt
+-r requirements/voice.txt
+-r requirements/actions.txt
+-r requirements/activation.txt
+-r requirements/custom_gestures.txt
+-r requirements/dashboard.txt
+-r requirements/adaptation.txt
+-r requirements/evaluation.txt
+-r requirements/dev.txt
