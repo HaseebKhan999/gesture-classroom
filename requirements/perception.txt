@@ -1,4 +1,4 @@
-opencv-python,
-mediapipe,
-numpy,
+opencv-python
+mediapipe
+numpy
 scikit-learn

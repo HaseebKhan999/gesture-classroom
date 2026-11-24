@@ -1,2 +1,2 @@
-	scikit-learn, 
-    numpy
+scikit-learn
+numpy
